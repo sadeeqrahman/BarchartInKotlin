@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BarchartInKotlin</string>
+    <string name="hello_world">Show Chart</string>
+</resources>
